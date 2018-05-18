@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:o="clr-namespace:Octane.Xamarin.Forms.VideoPlayer;assembly=Octane.Xamarin.Forms.VideoPlayer"
+             x:Class="VideoProject.Views.PlayVideoPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <o:VideoPlayer Source="https://www.youtube.com/embed/KaxlHzXFd8Y"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HeightRequest="400"
+                           DisplayControls="True" AutoPlay="True" Repeat="True" Volume="0" FillMode="ResizeAspectFill"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
