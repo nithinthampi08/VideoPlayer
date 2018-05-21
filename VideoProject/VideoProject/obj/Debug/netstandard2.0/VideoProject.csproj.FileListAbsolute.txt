@@ -1,9 +1,0 @@
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\bin\Debug\netstandard2.0\VideoProject.deps.json
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\bin\Debug\netstandard2.0\VideoProject.dll
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\bin\Debug\netstandard2.0\VideoProject.pdb
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.csprojResolveAssemblyReference.cache
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.csproj.CoreCompileInputs.cache
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.AssemblyInfoInputs.cache
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.AssemblyInfo.cs
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.dll
-D:\Nithin\Projects\Learn\VideoProject\VideoProject\VideoProject\obj\Debug\netstandard2.0\VideoProject.pdb
